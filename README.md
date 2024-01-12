@@ -101,7 +101,7 @@
 <tbody><tr>
 <td width="50%">
 <div align="center" dir="auto">
-<a href=""><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/Plataformas%20de%20aprendizaje.png" width="400" data-canonical-src="" style="max-width: 100%;"></a>
+<a href=""><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/Plataformas%20de%20aprendizaje.png" width="400" height="100%" style="max-width: 100%;"></a>
 <p dir="auto">
 <a href="https://fisacademy.org.mx/" target="_blank">
  <img src="https://img.shields.io/badge/FISACADEMY-black?style=for-the-badge" style="max-width: 100%;">
@@ -122,10 +122,8 @@
 </div>
 </td>
 <td width="50%">
-<br>
 <div align="center" dir="auto">                                       
-<a href=https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png"><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png" width="400" alt="Curso arquitectura MVVM" data-canonical-src="" style="max-width: 100%;"></a>
-<br>
+<a href=https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png"><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png" width="400" height="100%" style="max-width: 100%;"></a>
 <p dir="auto">
 <a href="https://emeent.com/cursos/JaponesM1/Leccion1/" target="_blank">
  <img src="https://img.shields.io/badge/Curso demo Japonés-black?style=for-the-badge" style="max-width: 100%;">
@@ -142,18 +140,3 @@
 
 
 </div>
-
-<!--
-**JabyN0v310/JabyN0v310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
