@@ -101,7 +101,7 @@
 <tbody><tr>
 <td width="50%">
 <div align="center" dir="auto">
-<a href=""><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/Plataformas%20de%20aprendizaje.png" width="400" height="100%" style="max-width: 100%;"></a>
+<a href="https://github.com/JabyN0v310/JabyN0v310/blob/main/Plataformas%20de%20aprendizaje.png"><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/Plataformas%20de%20aprendizaje.png" width="400" height="100%" style="max-width: 100%;"></a>
 <p dir="auto">
 <a href="https://fisacademy.org.mx/" target="_blank">
  <img src="https://img.shields.io/badge/FISACADEMY-black?style=for-the-badge" style="max-width: 100%;">
