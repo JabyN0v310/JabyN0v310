@@ -1,5 +1,5 @@
 <p align="center">
- <img height="300" width="900" src="https://github.com/JabyN0v310/JabyN0v310/blob/main/AlejandroNovelo_Banner.png" align="center" alt="Github Readme Stats" />
+ <img height="300" width="700" src="https://github.com/JabyN0v310/JabyN0v310/blob/main/AlejandroNovelo_Banner.png" align="center" alt="Github Readme Stats" />
 </p>
 <div align=center>
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=100&color=000000&center=true&vCenter=true&width=500&lines=Hi 👋+I'm+Alejandro Novelo ;Welcome+to+my+profile!;Description+of+myself%3A;Enthusiast;Chess+lover;Confident+and+responsible;Athlete;Guitar+player;Adventurous" alt="Typing SVG" /></a>
