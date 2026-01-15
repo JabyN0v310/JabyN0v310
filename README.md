@@ -106,14 +106,11 @@
  <a href="https://fisacademykids.org.mx/" target="_blank">
  <img src="https://img.shields.io/badge/FISACADEMYKIDS-black?style=for-the-badge" style="max-width: 100%;">
 </a>
- <a href="https://exani2.centrosdepreparacioncobaq.com/" target="_blank">
+ <a href="https://academiamentat.com/" target="_blank">
  <img src="https://img.shields.io/badge/EXANI-black?style=for-the-badge" style="max-width: 100%;">
 </a>
  <a href="https://acreditabach.centrosdepreparacioncobaq.com/" target="_blank">
  <img src="https://img.shields.io/badge/ACREDITABACH-black?style=for-the-badge" style="max-width: 100%;">
-</a>
- <a href="https://acreditabach2.centrosdepreparacioncobaq.com/" target="_blank">
- <img src="https://img.shields.io/badge/ACREDITABACH2-black?style=for-the-badge" style="max-width: 100%;">
 </a>
 </p>
 </div>
@@ -122,13 +119,13 @@
 <div align="center" dir="auto">                                       
 <a href="https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png"><img src="https://github.com/JabyN0v310/JabyN0v310/blob/main/PortadaElearning.png" width="400" height="100%" style="max-width: 100%;"></a>
 <p dir="auto">
-<a href="https://emeent.com/cursos/JaponesM1/Leccion1/" target="_blank">
+<a href="https://academiamentat.com/cursos/JaponesM1/Leccion1/" target="_blank">
  <img src="https://img.shields.io/badge/Curso demo Japonés-black?style=for-the-badge" style="max-width: 100%;">
 </a>
- <a href="https://emeent.com/cursos/FISAC/Leccion1/" target="_blank">
+ <a href="https://academiamentat.com/cursos/FISAC/Leccion1/" target="_blank">
  <img src="https://img.shields.io/badge/Curso y juego demo-black?style=for-the-badge" style="max-width: 100%;">
 </a>
- <a href="https://emeent.com/cursos/FrancesM6/Leccion1/" target="_blank">
+ <a href="https://academiamentat.com/cursos/FrancesM6/Leccion1/" target="_blank">
  <img src="https://img.shields.io/badge/Curso demo Francés-black?style=for-the-badge" style="max-width: 100%;">
 </a>
 </p>
