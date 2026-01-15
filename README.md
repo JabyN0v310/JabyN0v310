@@ -107,7 +107,7 @@
  <img src="https://img.shields.io/badge/FISACADEMYKIDS-black?style=for-the-badge" style="max-width: 100%;">
 </a>
  <a href="https://academiamentat.com/" target="_blank">
- <img src="https://img.shields.io/badge/EXANI-black?style=for-the-badge" style="max-width: 100%;">
+ <img src="https://img.shields.io/badge/Academia Mentat-black?style=for-the-badge" style="max-width: 100%;">
 </a>
  <a href="https://acreditabach.centrosdepreparacioncobaq.com/" target="_blank">
  <img src="https://img.shields.io/badge/ACREDITABACH-black?style=for-the-badge" style="max-width: 100%;">
